@@ -1,0 +1,27 @@
+2022-08-15 00:26:07,116 - WishUpLogin -INFO - Browser Opened
+2022-08-15 00:26:07,129 - WishUpLogin -INFO - Login Page Verification Start
+2022-08-15 00:26:07,742 - WishUpLogin -INFO - Verification Done and all options are displaying properly
+2022-08-15 00:26:08,517 - WishUpLogin -INFO - Browser Close
+2022-08-15 00:26:15,953 - WishUpLogin -INFO - Browser Opened
+2022-08-15 00:26:15,958 - WishUpLogin -INFO - Entering Email ID
+2022-08-15 00:26:16,190 - WishUpLogin -INFO - Entering Password
+2022-08-15 00:26:16,280 - WishUpLogin -INFO - Clicked on Login Button
+2022-08-15 00:27:28,167 - WishUpLogin -INFO - Browser Close
+2022-08-15 00:27:37,356 - WishUpLogin -INFO - Browser Opened
+2022-08-15 00:27:37,358 - WishUpLogin -INFO - Entering Email ID
+2022-08-15 00:27:37,499 - WishUpLogin -INFO - Entering Password
+2022-08-15 00:27:37,594 - WishUpLogin -INFO - Clicked on Login Button
+2022-08-15 00:27:43,703 - WishUpLogin -INFO - Login Successful
+2022-08-15 00:27:44,391 - WishUpLogin -INFO - Browser Close
+2022-08-15 00:27:51,464 - WishUpLogin -INFO - Browser Opened
+2022-08-15 00:27:51,468 - WishUpLogin -INFO - Entering Email ID
+2022-08-15 00:27:51,617 - WishUpLogin -INFO - Entering Password
+2022-08-15 00:27:51,713 - WishUpLogin -INFO - Clicked on Login Button
+2022-08-15 00:27:57,922 - WishUpLogin -INFO - Login Successful
+2022-08-15 00:27:58,616 - WishUpLogin -INFO - Browser Close
+2022-08-15 00:28:04,963 - WishUpLogin -INFO - Browser Opened
+2022-08-15 00:28:04,966 - WishUpLogin -INFO - Entering Email ID
+2022-08-15 00:28:05,122 - WishUpLogin -INFO - Entering Password
+2022-08-15 00:28:05,233 - WishUpLogin -INFO - Clicked on Login Button
+2022-08-15 00:28:19,017 - WishUpLogin -INFO - Browser Close
+2022-08-15 00:28:19,167 - WishUpLogin -INFO - Exit Test
